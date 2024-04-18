@@ -1,3 +1,6 @@
+# 0. summary
+https://jaeyoungstudio.notion.site/585eaa15093144028dacd69758348434?pvs=4
+
 # 1. yolov8 smoking object detection training
 - model: yolov8 model
 - enviornment: google colab, Jetson Nano
@@ -15,3 +18,4 @@
 # yolov8_used_csv
 yolov8_used_csv
 - used trained smoking detection model weights
+- yolo predict model="C:\Users\rlati\Downloads\validation_results\content\runs\detect\yolov8n_custom\weights\best.pt" source=0 save=True
