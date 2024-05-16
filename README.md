@@ -12,10 +12,6 @@ https://jaeyoungstudio.notion.site/585eaa15093144028dacd69758348434?pvs=4
 [validation result]  
 <img width="1037" alt="image" src="https://github.com/IntelliHuman/time-specific-yolov8-object-detection/assets/61938029/c2c5a381-13cc-40bf-922f-94746ca7b878">  
 
+# 2. result
+[mid_term_project_intellihuman.pdf](https://github.com/IntelliHuman/time-specific-yolov8-object-detection-Jetson_Nano/files/15336201/mid_term_project_intellihuman.pdf)
 
-
-
-# yolov8_used_csv
-yolov8_used_csv
-- used trained smoking detection model weights
-- yolo predict model="C:\Users\rlati\Downloads\validation_results\content\runs\detect\yolov8n_custom\weights\best.pt" source=0 save=True
